@@ -1,3 +1,5 @@
 Some song was here ! 
 And we can edit them! 
 And add some new text ! 
+We add one more line in our song...
+It is demo git, so we most using git GUI
